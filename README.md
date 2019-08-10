@@ -1,0 +1,1 @@
+This projects purpose is to deconstruct and subsequently reconstruct a webpage. Basically building my first HTML website.
