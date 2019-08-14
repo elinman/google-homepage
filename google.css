@@ -1,0 +1,14 @@
+
+.top-navigation {
+    display: inline;
+    text-align: right;
+    color: rgb(87, 81, 81);
+    word-spacing: 15px;
+    padding-top: 10px;
+}
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 150px;
+}
